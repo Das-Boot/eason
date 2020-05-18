@@ -1,5 +1,5 @@
 # EASON
-Fine-tuning **E**RNIE for Chest **A**bnormal Imaging **S**igns Extracti**on**
+Fine-tuning **E**RNIE for Chest **A**bnormal Imaging **S**igns Extracti**ON**
 - The code and terminology will be released upon publication
 
 ## Highlights
