@@ -1,2 +1,8 @@
-# eason
-Fine-tuning ERNIE for Chest Abnormal Imaging Signs Extraction
+# EASON
+Fine-tuning **E**RNIE for Chest **A**bnormal Imaging **S**igns Extracti**on**
+- The code and terminology will be released upon publication
+
+## Highlights
+- Fine-tuning the pretrained language model alleviates the problem of data insuﬃciency
+- A novel tag2relation algorithm has been proposed to serve the matching task
+- Experimental results show that the proposed method outperforms other baselines
