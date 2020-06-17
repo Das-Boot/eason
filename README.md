@@ -1,6 +1,6 @@
 # EASON
 Fine-tuning **E**RNIE for Chest **A**bnormal Imaging **S**igns Extracti**ON**
-- [Zhaoning Li](lizhn7@mail2.sysu.edu.cn), [Jiangtao Ren](issrjt@mail.sysu.edu.cn)
+- Zhaoning Li (lizhn7@mail2.sysu.edu.cn), Jiangtao Ren(issrjt@mail.sysu.edu.cn)
 - School of Data and Computer Science, Guangdong Province Key Lab of Computational Science, Sun Yat-Sen University, Guangzhou, Guangdong 510006, PR China
 - We release the code and terminology to the research community for further research
 
