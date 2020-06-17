@@ -20,12 +20,12 @@ Chest imaging reports describe the results of chest radiography procedures. Auto
 
 Chest Abnormal Imaging Signs Extraction, Sequence Tagging, ERNIE, Conditional Random Field
 
-## Download link for the weights
+## Download link for the trianing weights
 
-- link: https://pan.baidu.com/s/1llpxeMg-0f-JQYIZfjACUA  
+- https://pan.baidu.com/s/1llpxeMg-0f-JQYIZfjACUA  
 - password: 5tyy
 
 ## Download link for the ERNIE
 
-- link: https://pan.baidu.com/s/1ioJrtr5Hnh0BRWQRa-R3lQ  
+- https://pan.baidu.com/s/1ioJrtr5Hnh0BRWQRa-R3lQ  
 - password: y1ig
