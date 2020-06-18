@@ -23,13 +23,13 @@ Chest Abnormal Imaging Signs Extraction, Sequence Tagging, ERNIE, Conditional Ra
 
 ## Download link for the trianing weights
 
-- https://pan.baidu.com/s/1llpxeMg-0f-JQYIZfjACUA  
-- password: 5tyy
+- Baidu Netdisk: https://pan.baidu.com/s/1llpxeMg-0f-JQYIZfjACUA password: 5tyy
+- Google Drive: https://drive.google.com/file/d/15lJGw8Vk9mEX2kLOp1KDr7GP98SnSNf1/view?usp=sharing
 
 ## Download link for the ERNIE
 
-- https://pan.baidu.com/s/1ioJrtr5Hnh0BRWQRa-R3lQ  
-- password: y1ig
+- Baidu Netdisk: https://pan.baidu.com/s/1ioJrtr5Hnh0BRWQRa-R3lQ password: y1ig
+- Google Drive: https://drive.google.com/drive/folders/1xkudEF9F7DS8xBFTQnvwHc1CT8U-dk9X?usp=sharing
 
 ## Citation
 
