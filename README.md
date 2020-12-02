@@ -1,8 +1,7 @@
 # EASON
 Fine-tuning **E**RNIE for Chest **A**bnormal Imaging **S**igns Extracti**ON**
-- Zhaoning Li (lizhn7@mail2.sysu.edu.cn), Jiangtao Ren (issrjt@mail.sysu.edu.cn)
-- School of Data and Computer Science, Guangdong Province Key Lab of Computational Science, Sun Yat-Sen University, Guangzhou, Guangdong 510006, PR China
-- We release the code and terminology to the research community for further research
+- arXiv paper link: https://arxiv.org/abs/2010.13040
+- published paper link: https://doi.org/10.1016/j.jbi.2020.103492
 
 ## Highlights
 - Fine-tuning the pretrained language model alleviates the problem of data insuﬃciency
@@ -33,4 +32,16 @@ Chest Abnormal Imaging Signs Extraction, Sequence Tagging, ERNIE, Conditional Ra
 
 ## Citation
 
-Coming soon
+Please cite the following paper when using EASON.
+
+    @article{LI2020103492,
+      title = "Fine-tuning ERNIE for chest abnormal imaging signs extraction",
+      journal = "Journal of Biomedical Informatics",
+      volume = "108",
+      pages = "103492",
+      year = "2020",
+      issn = "1532-0464",
+      doi = "https://doi.org/10.1016/j.jbi.2020.103492",
+      url = "http://www.sciencedirect.com/science/article/pii/S1532046420301209",
+      author = "Zhaoning Li and Jiangtao Ren"
+    }
